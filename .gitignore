@@ -1,0 +1,9 @@
+/images
+/target
+*.dat
+*.RData
+*.RHistory
+*.csv
+
+**/imageRaster/**
+**/neuralNetwork/**

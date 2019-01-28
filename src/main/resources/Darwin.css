@@ -1,0 +1,19 @@
+
+
+
+.varInspectionRoot .button{
+ 	-fx-background-color:#cccccc;
+	/* Workaround no margin property */
+	-fx-padding: 10.0px;
+	-fx-border-insets: 5.0px;
+	-fx-background-insets: 5.0px;
+}
+
+.subHeading{
+	-fx-padding: 10 0 0 0;
+}
+
+.noBorder{
+	-fx-background-insets: 0.0;
+    -fx-padding: 0.0;
+}
